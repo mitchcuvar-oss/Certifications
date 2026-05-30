@@ -1,2 +1,2 @@
 # Certifications
-My collection of acquired certifications
+My collection of acquired certifications.
